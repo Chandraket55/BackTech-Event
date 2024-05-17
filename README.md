@@ -4,6 +4,9 @@
 
 Dive into a ton of cool stuff like interesting articles, breaking news, and fun events. Whether you love tech, business, or just learning new things, we've got something for you.
 
+You can checkout our website by clicking this link:
+https://cr-tech.netlify.app/
+
 No matter what you're into – whether it's tech stuff, business buzz, or just learning new things – we've got you covered. Our team works hard to bring you info you can trust, so you can feel totally confident and in-the-know about what's happening in the world.
 
  Our goal is to give you info you can trust, so you can feel confident and informed about what's going on. Come join us on this journey of discovery and growth as we explore the exciting world around us together!"
